@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 5000,
+      "quantity": 1000,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 1000,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "smartphone",
+      "price": 2500,
+      "quantity": 10000,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "MachineK",
+      "price": 15698,
+      "quantity": 45648,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "MachineT",
+      "price": 9999,
+      "quantity": 9600,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "MachineP",
+      "price": 2000,
+      "quantity": 9600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "MachineP",
+      "price": 10000,
+      "quantity": 2600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 8,
+      "name": "MachineS",
+      "price": 5000,
+      "quantity": 1600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 9,
+      "name": "MachineM",
+      "price": 10006,
+      "quantity": 600,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "Serveur",
+      "price": "50000",
+      "quantity": "10",
+      "selected": true,
+      "available": true,
+      "id": 10
+    }
+  ]
+}
